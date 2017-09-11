@@ -2,6 +2,8 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
+# add comment so that there is a change in the file
+
 #wrote a comment to make this file different
 
 # If not running interactively, don't do anything
